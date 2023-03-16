@@ -21,7 +21,5 @@ Here are some ideas to get you started:
 
 
 
-[![20190127_080436_001](https://user-images.githubusercontent.com/33284252/225516881-1dfb3d10-5881-4ba6-8c54-0ae037df80e5.jpg){: width="20%" height="20%" .align-center}
+![20190127_080436_001](https://user-images.githubusercontent.com/33284252/225516881-1dfb3d10-5881-4ba6-8c54-0ae037df80e5.jpg){: width="200" height="200"}
 
-Ingyun Ahn(Erin4hn)
--Kwangwoon University Department of Robotics
