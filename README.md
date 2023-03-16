@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goltong1)](https://github.com/anuraghazra/github-readme-stats)
 
-![profile](https://user-images.githubusercontent.com/33284252/225515906-039b95a8-26e3-4c65-81fd-93fb7d041349.jpg){: width="20%" height="20%" .align-center}
+
+
+
+[![20190127_080436_001](https://user-images.githubusercontent.com/33284252/225516881-1dfb3d10-5881-4ba6-8c54-0ae037df80e5.jpg){: width="20%" height="20%" .align-center}
 
 Ingyun Ahn(Erin4hn)
 -Kwangwoon University Department of Robotics
