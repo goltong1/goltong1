@@ -1,3 +1,8 @@
+
+![20190127_080436_001](https://user-images.githubusercontent.com/33284252/225517331-0d9a52a0-5eab-4cb0-b97e-3c31dd1bda18.jpg){: width="100" height="100"}
+
+
+
 <!--
 **goltong1/goltong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +23,5 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goltong1)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![image](https://user-images.githubusercontent.com/33284252/225517150-25e682aa-0b62-4294-bf61-b77700ae9916.png){: height=100}
 
 
