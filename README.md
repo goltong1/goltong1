@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on ...
+
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -24,6 +24,11 @@ Here are some ideas to get you started:
 
 # Ingyun Ahn  
 
+##🔭 I’m currently working on ...  
+-Kwangwoon University Robot Game Team RO:BIT (Humanoid Team Walking&Localization)  
+
 ## 🌱 I’m currently learning ...
--Kwangwoon University Department of Robotics
--Capstone Project - AI soccer
+-Kwangwoon University Department of Robotics  
+-Capstone Project - AI soccer  
+
+
