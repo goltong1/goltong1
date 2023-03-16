@@ -1,8 +1,4 @@
 
-![title](https://user-images.githubusercontent.com/33284252/225517331-0d9a52a0-5eab-4cb0-b97e-3c31dd1bda18.jpg){: width="100" height="100"}
-
-
-
 <!--
 **goltong1/goltong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,4 +20,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goltong1)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![image](https://user-images.githubusercontent.com/33284252/225517892-31c0b3ca-ad03-4037-b0d7-246a02432212.png)
 
+Ingyun Ahn  
+Kwangwoon University Department of Robotics
